@@ -1,1 +1,0 @@
-# plp-da-a1-gikomba-stall-analysis
