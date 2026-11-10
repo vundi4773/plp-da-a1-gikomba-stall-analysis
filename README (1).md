@@ -9,7 +9,7 @@ Wanjiku runs a fresh-produce stall at Gikomba Market. For two weeks she has writ
 
 ## How to run
 
-Open the notebook in Google Colab and choose **Runtime → Run all**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)
+Open the notebook in Google Colab and choose **Runtime → Run all**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vundi4773/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)
 
 ## Top three findings
 
